@@ -1,4 +1,5 @@
 abstract class Race {
+  // public static instances = 0;
   constructor(private _name: string, private _dexterity: number) {}
   
   get name() {
