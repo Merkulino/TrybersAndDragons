@@ -15,7 +15,7 @@ export default class PVP extends Battle {
   //   currentPlayer.attack(otherPlayer);
   // };
 
-  fight(): number {
+  fight(): number { // Refatorar acho que tem uma logica melhor
     let res = 0;
     while (this.player.lifePoints >= 0 && this.player2.lifePoints >= 0) {
       this.player.attack(this.player2);
