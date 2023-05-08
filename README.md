@@ -1,4 +1,7 @@
 # :construction: README em construção ! :construction:
+
+Projeto em POO com a tematica do universo D&D
+
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
 É essencial que você preencha esse documento por conta própria, ok?
