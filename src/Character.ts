@@ -48,8 +48,6 @@ export default class Character implements Fighter {
   }
 
   get energy(): Energy {
-    // return Object.freeze(this._energy) as Energy;
-    // return this._energy;
     return { type_: this._energy.type_, amount: this._energy.amount };
   }
 
